@@ -1,5 +1,6 @@
 # Release That Witch Hub
-
+> Read Release That Witch online, explore manga, anime, characters, and story in one place.
+> 
 A simple fan hub for **Release That Witch**, focused on reading, exploring, and understanding the story across different formats.
 
 👉 https://releasethatwitch.com/
